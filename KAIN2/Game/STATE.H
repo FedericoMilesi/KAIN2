@@ -5,7 +5,6 @@
 #include "MONSTER/MONSTER.H"
 #include "PHYSOBS.H"
 #include "Game/EVENT.H"
-#include "G2/ANMCTRLR.H"
 
 struct evMonsterSoulSuckData 
 {
